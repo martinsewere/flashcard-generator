@@ -1,0 +1,19 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "This a node Application that displays a flashcard and prompts you for an answer",
+  "main": "flashcardApp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martinsewere/flashcard-generator.git"
+  },
+  "author": "Martins Ewere",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martinsewere/flashcard-generator/issues"
+  },
+  "homepage": "https://github.com/martinsewere/flashcard-generator#readme"
+}
